@@ -10,13 +10,8 @@ requirements:
   skip: false
   conda:
     channels:
-    - conda-forge
     packages:
-    - netcdf4
-    - siphon
-    - owslib
-    - plotly
-    - geojson
+
   pip:
 
   npm:
